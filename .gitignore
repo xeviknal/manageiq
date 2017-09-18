@@ -13,6 +13,7 @@
 .redcar/
 .rubocop-*
 .ruby-version
+.ruby-gemset
 .sass-cache/
 .tags
 /data/
